@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'nekoo'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_bcf92333ff0346c2800bd4b9985182dc }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_15009b9c4fce470c8446646312f0943a }}
         package: .
